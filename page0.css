@@ -1,0 +1,58 @@
+html {
+  width: 100%;
+  height: 100%;
+}
+
+#page0 {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(/images/bg.jpg);
+}
+
+.title {
+  color: #C0C0C0;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Times New Roman";
+}
+
+.aboutme {
+  background-repeat: no-repeat;
+  background-size: 30%;
+  position: fixed;
+  left: 2%;
+  bottom: 2%;
+  top: 25%;
+  width: 100%;
+  height: 100%;
+}
+
+.myworks {
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: fixed;
+  left: 70%;
+  bottom: 2%;
+  top: 25%;
+  max-width: 100%;
+  height: auto;
+}
+.aboutmewords {
+  color: #C0C0C0;
+  font-size: 50px;
+  font-family: "Times New Roman";
+  position:fixed;
+  top: 80%;
+  left: 5%;
+}
+.myworkswords {
+  color: #C0C0C0;
+  font-size: 50px;
+  font-family: "Times New Roman";
+  position: fixed;
+  top: 80%;
+  left: 80%;
+}

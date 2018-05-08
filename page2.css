@@ -18,7 +18,7 @@
   height: 100%;
 }
 .title {
-  color: #C0C0C0;
+  color: #ff0000;
   text-align: center;
   font-size: 50px;
   font-family: "Times New Roman";
@@ -29,5 +29,5 @@
 }
 a{ 
   text-decoration:none;
-  color: #C0C0C0;
+  color: #ff0000;
 }

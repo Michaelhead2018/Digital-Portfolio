@@ -13,7 +13,7 @@ html {
 }
 
 .title {
-  color: #ff0000;
+  color: #800000;
   text-align: center;
   font-size: 50px;
   font-family: "Times New Roman";
@@ -41,7 +41,7 @@ html {
   height: auto;
 }
 .aboutmewords {
-  color: #ff0000;
+  color: #800000;
   font-size: 50px;
   font-family: "Times New Roman";
   position:fixed;
@@ -49,7 +49,7 @@ html {
   left: 5%;
 }
 .myworkswords {
-  color: #ff0000;
+  color: #800000;
   font-size: 50px;
   font-family: "Times New Roman";
   position: fixed;
